@@ -78,7 +78,7 @@ Choose an option: ");
 
                 case "5":
                 {
-                    showInsectList(typeof(Edderkopp));
+                    showInsectList(typeof(Flått));
                 }
                     break;
 
